@@ -58,8 +58,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.codice.testify.bayeux.actions</groupId>
-            <artifactId>start-bayeux-client</artifactId>
+            <groupId>org.codice.testify.actions.BayeuxClientActions</groupId>
+            <artifactId>StartBayeuxClient</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
